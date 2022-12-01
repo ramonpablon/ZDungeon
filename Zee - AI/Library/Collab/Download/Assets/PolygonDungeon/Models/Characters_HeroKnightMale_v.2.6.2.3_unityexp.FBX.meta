@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 7c5f7481f939f6847baf1a81026f642c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Ankle_L
+    100002: Ankle_R
+    100004: Ball_L
+    100006: Ball_R
+    100008: Character_Hero_Knight_Male
+    100010: //RootNode
+    100012: Clavicle_L
+    100014: Clavicle_R
+    100016: Elbow_L
+    100018: Elbow_R
+    100020: Eyebrows
+    100022: Eyes
+    100024: Finger_01
+    100026: Finger_01 1
+    100028: Finger_02
+    100030: Finger_02 1
+    100032: Finger_03
+    100034: Finger_03 1
+    100036: Finger_04
+    100038: Finger_04 1
+    100040: Hand_L
+    100042: Hand_R
+    100044: Head
+    100046: Hips
+    100048: IndexFinger_01
+    100050: IndexFinger_01 1
+    100052: IndexFinger_02
+    100054: IndexFinger_02 1
+    100056: IndexFinger_03
+    100058: IndexFinger_03 1
+    100060: IndexFinger_04
+    100062: IndexFinger_04 1
+    100064: Knight_Elbowpad_L
+    100066: Knight_Elbowpad_R
+    100068: Knight_Helmet
+    100070: Knight_Kneepad_L
+    100072: Knight_Kneepad_R
+    100074: Knight_Shoulderpad_L
+    100076: Knight_Shoulderpad_R
+    100078: Knight_ShoulderPlate_L
+    100080: Knight_ShoulderPlate_R
+    100082: LowerLeg_L
+    100084: LowerLeg_R
+    100086: Neck
+    100088: Root
+    100090: Shoulder_L
+    100092: Shoulder_R
+    100094: SM_Item_Bag_Large
+    100096: SM_Item_Bags
+    100098: SM_Item_Bones
+    100100: SM_Item_Goblin_Hair
+    100102: SM_Item_Goblin_WarBanner
+    100104: SM_Item_Horn
+    100106: SM_Item_Mask_01
+    100108: SM_Item_Mask_02
+    100110: SM_Item_Shield
+    100112: SM_Item_Shrooms
+    100114: SM_Item_Shrunken_Head
+    100116: SM_Item_Sword
+    100118: Spine_01
+    100120: Spine_02
+    100122: Spine_03
+    100124: Thumb_01
+    100126: Thumb_01 1
+    100128: Thumb_02
+    100130: Thumb_02 1
+    100132: Thumb_03
+    100134: Thumb_03 1
+    100136: Toes_L
+    100138: Toes_R
+    100140: UpperLeg_L
+    100142: UpperLeg_R
+    400000: Ankle_L
+    400002: Ankle_R
+    400004: Ball_L
+    400006: Ball_R
+    400008: Character_Hero_Knight_Male
+    400010: //RootNode
+    400012: Clavicle_L
+    400014: Clavicle_R
+    400016: Elbow_L
+    400018: Elbow_R
+    400020: Eyebrows
+    400022: Eyes
+    400024: Finger_01
+    400026: Finger_01 1
+    400028: Finger_02
+    400030: Finger_02 1
+    400032: Finger_03
+    400034: Finger_03 1
+    400036: Finger_04
+    400038: Finger_04 1
+    400040: Hand_L
+    400042: Hand_R
+    400044: Head
+    400046: Hips
+    400048: IndexFinger_01
+    400050: IndexFinger_01 1
+    400052: IndexFinger_02
+    400054: IndexFinger_02 1
+    400056: IndexFinger_03
+    400058: IndexFinger_03 1
+    400060: IndexFinger_04
+    400062: IndexFinger_04 1
+    400064: Knight_Elbowpad_L
+    400066: Knight_Elbowpad_R
+    400068: Knight_Helmet
+    400070: Knight_Kneepad_L
+    400072: Knight_Kneepad_R
+    400074: Knight_Shoulderpad_L
+    400076: Knight_Shoulderpad_R
+    400078: Knight_ShoulderPlate_L
+    400080: Knight_ShoulderPlate_R
+    400082: LowerLeg_L
+    400084: LowerLeg_R
+    400086: Neck
+    400088: Root
+    400090: Shoulder_L
+    400092: Shoulder_R
+    400094: SM_Item_Bag_Large
+    400096: SM_Item_Bags
+    400098: SM_Item_Bones
+    400100: SM_Item_Goblin_Hair
+    400102: SM_Item_Goblin_WarBanner
+    400104: SM_Item_Horn
+    400106: SM_Item_Mask_01
+    400108: SM_Item_Mask_02
+    400110: SM_Item_Shield
+    400112: SM_Item_Shrooms
+    400114: SM_Item_Shrunken_Head
+    400116: SM_Item_Sword
+    400118: Spine_01
+    400120: Spine_02
+    400122: Spine_03
+    400124: Thumb_01
+    400126: Thumb_01 1
+    400128: Thumb_02
+    400130: Thumb_02 1
+    400132: Thumb_03
+    400134: Thumb_03 1
+    400136: Toes_L
+    400138: Toes_R
+    400140: UpperLeg_L
+    400142: UpperLeg_R
+    2100000: Material Accessories (Atlas)
+    2100002: Material Atlas
+    2300000: Character_Hero_Knight_Male
+    2300002: Knight_Elbowpad_L
+    2300004: Knight_Elbowpad_R
+    2300006: Knight_Helmet
+    2300008: Knight_Kneepad_L
+    2300010: Knight_Kneepad_R
+    2300012: Knight_Shoulderpad_L
+    2300014: Knight_Shoulderpad_R
+    2300016: Knight_ShoulderPlate_L
+    2300018: Knight_ShoulderPlate_R
+    2300020: SM_Item_Bag_Large
+    2300022: SM_Item_Bags
+    2300024: SM_Item_Bones
+    2300026: SM_Item_Goblin_Hair
+    2300028: SM_Item_Goblin_WarBanner
+    2300030: SM_Item_Horn
+    2300032: SM_Item_Mask_01
+    2300034: SM_Item_Mask_02
+    2300036: SM_Item_Shield
+    2300038: SM_Item_Shrooms
+    2300040: SM_Item_Shrunken_Head
+    2300042: SM_Item_Sword
+    3300000: Character_Hero_Knight_Male
+    3300002: Knight_Elbowpad_L
+    3300004: Knight_Elbowpad_R
+    3300006: Knight_Helmet
+    3300008: Knight_Kneepad_L
+    3300010: Knight_Kneepad_R
+    3300012: Knight_Shoulderpad_L
+    3300014: Knight_Shoulderpad_R
+    3300016: Knight_ShoulderPlate_L
+    3300018: Knight_ShoulderPlate_R
+    3300020: SM_Item_Bag_Large
+    3300022: SM_Item_Bags
+    3300024: SM_Item_Bones
+    3300026: SM_Item_Goblin_Hair
+    3300028: SM_Item_Goblin_WarBanner
+    3300030: SM_Item_Horn
+    3300032: SM_Item_Mask_01
+    3300034: SM_Item_Mask_02
+    3300036: SM_Item_Shield
+    3300038: SM_Item_Shrooms
+    3300040: SM_Item_Shrunken_Head
+    3300042: SM_Item_Sword
+    4300000: SM_Item_Goblin_Hair
+    4300002: SM_Item_Mask_01
+    4300004: SM_Item_Mask_02
+    4300006: SM_Item_Goblin_WarBanner
+    4300008: SM_Item_Sword
+    4300010: SM_Item_Shield
+    4300012: SM_Item_Shrunken_Head
+    4300014: SM_Item_Bags
+    4300016: SM_Item_Shrooms
+    4300018: SM_Item_Horn
+    4300020: SM_Item_Bones
+    4300022: SM_Item_Bag_Large
+    4300024: Character_Hero_Knight_Male
+    4300026: Knight_Shoulderpad_R
+    4300028: Knight_ShoulderPlate_R
+    4300030: Knight_Elbowpad_R
+    4300032: Knight_Kneepad_L
+    4300034: Knight_Kneepad_R
+    4300036: Knight_Shoulderpad_L
+    4300038: Knight_Helmet
+    4300040: Knight_Elbowpad_L
+    4300042: Knight_ShoulderPlate_L
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
